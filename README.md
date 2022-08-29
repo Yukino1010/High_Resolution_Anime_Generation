@@ -17,6 +17,15 @@
 
 ## Hyperparameters
 
+- START_IMG_SIZE = 16
+- N_CRITIC = 5
+- EPOCH_TRAN_REV = 40
+- EPOCHS = 200
+- Z_DIM = 512
+- LAMBDA = 10
+- BATCH_SIZE = 16
+- TOTAL_ITER = 2500
+
 ## Data
 
 ## Result
@@ -37,8 +46,6 @@
 <p align="center">
 64 resolution and 128 resolution
 </p>
-  
-
 
 
 ## References
