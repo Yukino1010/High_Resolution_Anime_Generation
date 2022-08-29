@@ -1,1 +1,1 @@
-# Progressive_GAN
+# High_Resolution_Anime_Generation
