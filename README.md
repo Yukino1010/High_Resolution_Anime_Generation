@@ -16,8 +16,8 @@ This is an implimentation of PGGAN (Progressive Growing of GANs for Improved Qua
 
 
 ## Network Structure
-To make the implimentation simpler, we replace the pixel normalization with batch normalization whlie 
-
+To make the implimentation simpler, we replace the pixel normalization with batch normalization whlie didn't apply equalized learning rate in the model.
+Besides, we use wasserstein distance as the loss function with the critic 5.
 ## Hyperparameters
 
 - START_IMG_SIZE = 16
