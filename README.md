@@ -12,8 +12,11 @@
 
 
 ## Introduce
+This is an implimentation of PGGAN (Progressive Growing of GANs for Improved Quality, Stability, and Variation). PGGAN can generate high resolution image by training each resolution from low to high independently, with a fade-in structure to maintain the robustness in both generator and discriminator.
+
 
 ## Network Structure
+To make the implimentation simpler, we replace the pixel normalization with batch normalization whlie 
 
 ## Hyperparameters
 
