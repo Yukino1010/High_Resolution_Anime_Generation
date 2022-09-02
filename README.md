@@ -1,13 +1,13 @@
 # High_Resolution_Anime_Generation
 
 <p align="center">
-<img width="500px" src="https://github.com/Yukino1010/High_Resolution_Anime_Generation/blob/master/result/final_1.jpg?raw=true" >
-<img width="500px" src="https://github.com/Yukino1010/High_Resolution_Anime_Generation/blob/master/result/final_3.jpg?raw=true">
+<img src="https://github.com/Yukino1010/High_Resolution_Anime_Generation/blob/master/result/final_1.jpg?raw=true" >
+<img src="https://github.com/Yukino1010/High_Resolution_Anime_Generation/blob/master/result/final_3.jpg?raw=true">
 </p>
 
 <p align="center">
-<img width="500px" src="https://github.com/Yukino1010/High_Resolution_Anime_Generation/blob/master/result/final_2.jpg?raw=true" >
-<img width="500px" src="https://github.com/Yukino1010/High_Resolution_Anime_Generation/blob/master/result/final_5.jpg?raw=true">
+<img src="https://github.com/Yukino1010/High_Resolution_Anime_Generation/blob/master/result/final_2.jpg?raw=true" >
+<img src="https://github.com/Yukino1010/High_Resolution_Anime_Generation/blob/master/result/final_5.jpg?raw=true">
 </p>
 
 
