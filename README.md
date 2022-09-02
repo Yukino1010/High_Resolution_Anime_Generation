@@ -35,6 +35,8 @@ Besides, we use wasserstein distance as the loss function with the critic 5.
 - TOTAL_ITER = 2500
 
 ## Data
+data was collected from kaggle (selfie2anime) <br>
+(https://www.kaggle.com/datasets/arnaud58/selfie2anime)
 
 ## Result
 <p align="center">
@@ -54,6 +56,9 @@ Besides, we use wasserstein distance as the loss function with the critic 5.
 <p align="center">
 64 resolution and 128 resolution
 </p>
+<br>
 
 
 ## References
+1. ***Progressive Growing of GANs for Improved Quality, Stability, and Variation*** [[arxiv](https://arxiv.org/abs/1710.10196)]
+2. ***pggan-tensorflow*** (https://github.com/henry32144/pggan-tensorflow)
